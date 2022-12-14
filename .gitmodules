@@ -1,0 +1,7 @@
+[submodule "themes/hugo-theme-shell"]
+	path = themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "public"]
+	path = public
+	url = git@github.com:AyCarlito/AyCarlito.github.io.git
+	branch = master
